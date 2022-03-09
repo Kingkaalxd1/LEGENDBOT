@@ -52,7 +52,7 @@
 
 - First Fork This Repo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingxkaal1/LEGENDBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingxkaalxd1/LEGENDBOT)
 
 
 
